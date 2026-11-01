@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: swamy2088/git-project-demo
+          image: swamy2088/git-project-demo:v1
           ports:
             - containerPort: 80
